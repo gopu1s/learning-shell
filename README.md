@@ -1,5 +1,5 @@
 # learning-shell
 
 Shell Scripting
-We are learning Bash Shell Scription
+We are learning Bash Shell Scripting
 "Hello Guys"
